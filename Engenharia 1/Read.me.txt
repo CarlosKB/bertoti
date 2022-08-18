@@ -3,4 +3,4 @@
 Titus Winters, Software Engineering at Google
 
 
-A engenharia de software, não é pensar somente na programação, e sim pensar no todo. Pensar na organização, nas mudanças, e nos codigos.    
+A engenharia de software, não é pensar somente na programação, e sim pensar no todo. Pensar na organização, nas mudanças, e nos codigos.O Engenheiro de software tem que pensar no tempo, nas mudanças que estão ocorrendo durante o processo todo do projeto. O Engenheiro de software tembem sempre pensar a frente, pensar no futuro.
