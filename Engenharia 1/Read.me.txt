@@ -3,4 +3,24 @@
 Titus Winters, Software Engineering at Google
 
 
-A engenharia de software, não é pensar somente na programação, e sim pensar no todo. Pensar na organização, nas mudanças, e nos codigos. O Engenheiro de software tem que pensar no tempo, nas mudanças que estão ocorrendo durante todo o processo do projeto. O engenheiro de software sempre tem que pensar a frente, pensar no futuro.
+Comentario: A engenharia de software, não é pensar somente na programação, e sim pensar no todo. Pensar na organização, nas mudanças, e nos codigos. O Engenheiro de software tem que pensar no tempo, nas mudanças que estão ocorrendo durante todo o processo do projeto. O engenheiro de software sempre tem que pensar a frente, pensar no futuro.
+
+API/Trade-Off: No API, nós temos uma troca muito equivalente, nós damos nosso tempo, esforço para aprender as tecnologias e utilizalas, e em troca ganhamos muita experiencia e conhecimentos em diversas áreas, além do trabalho em equipe que conseguimos melhorar diversas soft-Skills no decorrer do API.
+
+Atividade Requisitos:
+Situação - Consultorio de advogado
+Requisitos Funcionais:
+1 - Cadastro dos clientes
+2 - Vizualização dos clientes e seus problemas
+3 - Calendario de reuniões
+4 - Vizualizações dos pagamentos, se foram depositados.
+
+
+
+Requisitos Não-Funcionais:
+1 - Responsividade e Portabilidade.
+2 - Banco de dados MySql, para um melhor armazenamento de informações.
+3 - Um bom design do aplicativo, para uma boa visualizações.
+4 - Fazer o site de uma maneira que o uso seja simples e de facil acesso.
+
+
