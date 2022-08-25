@@ -21,6 +21,6 @@ Requisitos Não-Funcionais:
 1 - Responsividade e Portabilidade.
 2 - Banco de dados MySql, para um melhor armazenamento de informações.
 3 - Um bom design do aplicativo, para uma boa visualizações.
-4 - Fazer o site de uma maneira que o uso seja simples e de facil acesso.
+4 - Fazer o site de uma maneira que o uso seja simples e de facil usabilidade.
 
 
