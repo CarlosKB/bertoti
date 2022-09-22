@@ -10,17 +10,16 @@ API/Trade-Off: No API, nós temos uma troca muito equivalente, nós damos nosso 
 Atividade Requisitos:
 Situação - Consultorio de advogado
 Requisitos Funcionais:
-1 - Cadastro dos clientes
-2 - Vizualização dos clientes e seus problemas
-3 - Calendario de reuniões
-4 - Vizualizações dos pagamentos, se foram depositados.
+1 - Cadastro dos alunos (nome, idade e cpf)
+2 - Pesquisar alunos(Por nome, idade e cpf)
+3 - Visualização dos Alunos na tabela.
 
 
 
 Requisitos Não-Funcionais:
-1 - Responsividade e Portabilidade.
+1 - Vizualização por tabela JTable
 2 - Banco de dados MySql, para um melhor armazenamento de informações.
 3 - Um bom design do aplicativo, para uma boa visualizações.
-4 - Fazer o site de uma maneira que o uso seja simples e de facil usabilidade.
+4 - Fazer o aplicativo de uma maneira que o uso seja simples e de facil usabilidade.
 
 
