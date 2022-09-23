@@ -22,4 +22,7 @@ Requisitos Não-Funcionais:
 3 - Um bom design do aplicativo, para uma boa visualizações.
 4 - Fazer o aplicativo de uma maneira que o uso seja simples e de facil usabilidade.
 
+Diagrama de Classes UML
+
+![Aluno](https://user-images.githubusercontent.com/102235664/192038789-b6a6183b-4c66-4b32-bc11-6af48086b3df.jpg)
 
