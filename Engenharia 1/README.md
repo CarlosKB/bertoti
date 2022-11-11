@@ -19,7 +19,7 @@ Requisitos Não-Funcionais:
 
 # Diagrama de Classes UML #
 
-![Diagrama de Classes]()
+![Diagrama de Classes](https://github.com/CarlosKB/bertoti/blob/main/Engenharia%201/Atividade%20Projeto/DiagramaClasses.png)
 
 
 # Visualização View Front #
