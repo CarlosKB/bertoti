@@ -17,6 +17,8 @@ Requisitos Não-Funcionais:
 3 - Um bom design do aplicativo, para uma boa visualizações.</br>
 4 - Fazer o aplicativo de uma maneira que o uso seja simples e de facil usabilidade.</br>
 
+Atividade Texto: https://github.com/CarlosKB/bertoti/tree/main/Engenharia%201/Atividade%20Texto
+
 # Diagrama de Classes UML #
 
 ![Diagrama de Classes](https://github.com/CarlosKB/bertoti/blob/main/Engenharia%201/Atividade%20Projeto/DiagramaClassesAluno.png)
