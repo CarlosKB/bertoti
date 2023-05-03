@@ -1,4 +1,4 @@
-# Bertoti - IHC - Heuristicas
+# Bertoti - IHC - Heurísticas
 
 
 
@@ -16,10 +16,13 @@
 
 
 
-### Pagina :
+### Heurísticas aplicadas em sites e aplicativos :
 
 
-### Atividade Texto: https://github.com/CarlosKB/bertoti/tree/main/Engenharia%201/Atividade%20Texto
+### Netshoes: https://github.com/CarlosKB/bertoti/blob/main/IHC/IHC%20IMAGENS/NetshoesSite.png
+#### 1 - Visibilidade do Status do Sistema</br>
+#### 2 - Compatibilidade entre o sistema e o mundo real</br>
+#### 3 - Controle e liberdade para o usuário</br>
 
 # Diagrama de Classes UML #
 
