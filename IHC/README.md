@@ -37,4 +37,4 @@
 #####    • Botões em locais incondizente, como exemplo o informar o CEP, que esta ao lado de todas as categorias.
 #####    • Menu com botões que não funcionam, como o lista de desejos, que não funciona se não estiver logado. O certo seria sumir este botão caso ele não funcione.</br>
 #####    • Muitas cores diferentes, muitas imagens e informações com que possa fazer com que o usuário se perca durante o uso.
-#####     
+#####     • 
