@@ -18,16 +18,9 @@
 
 ### Heurísticas aplicadas em sites e aplicativos :
 
+# Netshoes #
+![Netshoes]()
 
-### Netshoes: https://github.com/CarlosKB/bertoti/blob/main/IHC/IHC%20IMAGENS/NetshoesSite.png
 #### 1 - Visibilidade do Status do Sistema</br>
 #### 2 - Compatibilidade entre o sistema e o mundo real</br>
 #### 3 - Controle e liberdade para o usuário</br>
-
-# Diagrama de Classes UML #
-
-![Diagrama de Classes](https://github.com/CarlosKB/bertoti/blob/main/Engenharia%201/Atividade%20Projeto/DiagramaClassesAluno.png)
-
-
-# Visualização View Front #
-![Diagrama de Classes](https://github.com/CarlosKB/bertoti/blob/main/Engenharia%201/Atividade%20Projeto/View%20Front.png)
