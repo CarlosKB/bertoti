@@ -21,6 +21,11 @@
 # Netshoes #
 ![Netshoes](https://github.com/CarlosKB/bertoti/blob/main/IHC/IHC%20IMAGENS/NetshoesSite.png)
 
-#### 1 - Visibilidade do Status do Sistema</br>
-#### 2 - Compatibilidade entre o sistema e o mundo real</br>
-#### 3 - Controle e liberdade para o usuário</br>
+#### 4 - Consistência e Padronização: </br>
+#####     Botões com fontes de letras diferentes de outros locais
+#####     Muitas cores diferentes, não existe um padrão nas cores que estão no site.
+
+
+#####     Botões em locais incondizente, como exemplo o informar o CEP, que esta ao lado de todas as categorias.
+#####     Menu com botões que não funcionam, como o lista de desejos, que não funciona se não estiver logado. O certo</br>
+#####     seria sumir este botão caso ele não funcione.
