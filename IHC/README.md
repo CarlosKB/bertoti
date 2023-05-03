@@ -14,7 +14,9 @@
 #### 9 - Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros</br>
 #### 10 - Ajuda e documentação</br>
 
-
+</br>
+</br>
+</br>
 
 ### Heurísticas aplicadas em sites e aplicativos :
 
