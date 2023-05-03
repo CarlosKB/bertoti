@@ -2,12 +2,17 @@
 
 
 
-### Atividade Requisitos:</br>
-#### Situação - Cadastro de Alunos</br>
-#### Requisitos Funcionais:</br>
-#### 1 - Cadastro dos alunos (nome, idade e cpf)</br>
-#### 2 - Pesquisar alunos(Por nome, idade e cpf)</br>
-#### 3 - Visualização dos Alunos na tabela.
+### 10 Heurísticas de Nielsen:</br>
+#### 1 - Visibilidade do Status do Sistema</br>
+#### 2 - Compatibilidade entre o sistema e o mundo real</br>
+#### 3 - Controle e liberdade para o usuário</br>
+#### 4 - Consistência e Padronização</br>
+#### 5 - Prevenção de erros</br>
+#### 6 - Reconhecimento em vez de memorização</br>
+#### 7 - Eficiência e flexibilidade</br>
+#### 8 - Estética e design minimalista</br>
+#### 9 - Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros</br>
+#### 10 - Ajuda e documentação</br>
 
 
 
