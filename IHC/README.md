@@ -40,6 +40,9 @@
 #####    • Menu com botões que não funcionam, como o lista de desejos, que não funciona se não estiver logado. O certo seria sumir este botão caso ele não funcione;</br>
 #####    • Muitas cores diferentes, muitas imagens e informações com que possa fazer com que o usuário se perca durante o uso.
 
+</br>
+</br>
+
 # Youtube #
 ![Youtube](https://github.com/CarlosKB/bertoti/blob/main/IHC/IHC%20IMAGENS/youtube.png)
 
