@@ -70,6 +70,6 @@
 #### 9 - Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros</br>
 #####     • Caso ocorra um erro, é passado formas de como resolver, além de ser capaz de mandar um aviso para caso precise de ajude;
 #####     • Tem pagina de ajuda, para auxiliar o usuário em funções e em caso de erros.
-
+![Youtube - Ajuda](https://github.com/CarlosKB/bertoti/blob/main/IHC/IHC%20IMAGENS/youtubeAjuda.png)
 #### 10 - Ajuda e documentação</br>
 #####     • Pagina de ajuda, com varios tópicos, e com pesquisa.
