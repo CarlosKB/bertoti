@@ -32,12 +32,12 @@
 #####     cansativo ao usuário. 
 
 #### 7 - Eficiência e flexibilidade</br>
-#####   • Todas as imagens do site são links, que faz com que o usuário clique em locais sem querer, e faz com que a eficiencia do site seja mais cansativa;</br>
+#####   • Todas as imagens do site são links, que faz com que o usuário clique em locais sem querer, e faz com que a eficiencia do site seja mais lenta e cansativo para o usuário;</br>
 #####   • Muitos Popups, e aparecem em momentos inoportunos.
 
 #### 8 - Estética e design minimalista</br>
 #####    • Botões em locais incondizente, como exemplo o informar o CEP, que esta ao lado de todas as categorias;
-#####    • Menu com botões que não funcionam, como o lista de desejos, que não funciona se não estiver logado. O certo seria sumir este botão caso ele não funcione;</br>
+#####    • Menu com botões que não funcionam, como o lista de desejos, que não funciona se não estiver logado. O certo seria sumir este botão caso o usuário não esteja logado no sistema;</br>
 #####    • Muitas cores diferentes, muitas imagens e informações com que possa fazer com que o usuário se perca durante o uso.
 
 </br>
