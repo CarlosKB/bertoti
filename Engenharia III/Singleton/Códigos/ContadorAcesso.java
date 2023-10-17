@@ -2,7 +2,7 @@ public class ContadorAcesso {
     private static ContadorAcesso instance;
     private int count;
 
-    ContadorAcesso() {
+    private ContadorAcesso() {
         this.count = 0;
     }
 
