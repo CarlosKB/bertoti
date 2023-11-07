@@ -4,7 +4,7 @@ public class View implements Observer{
   private Acessorio acessorio;
   private List<Camiseta> camisetas;
   
-  public void setCafeGratis(Acessorio a){
+  public void setAcessorio(Acessorio a){
     this.acessorio = a;
   }
   
